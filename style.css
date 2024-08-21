@@ -37,12 +37,12 @@ h2{
     align-items: center;
     justify-content: center;
 }
-.buttons img{
+.buttons i{
     width: 50px;
     cursor: pointer;
     margin: 0 20px;
 }
-.buttons img:nth-child(2){
+.buttons i:nth-child(2){
     width: 80px;
 }
 
@@ -51,10 +51,10 @@ h2{
         margin-top: 60px;
         font-size: 53px;
     }
-    .buttons img {
+    .buttons i {
         width: 42px;
     }
-    .buttons img:nth-child(2) {
+    .buttons i:nth-child(2) {
         width: 75px;
     }
 }
